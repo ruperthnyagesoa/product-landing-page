@@ -1,7 +1,7 @@
 # Product: Landing Page
 ## A fully responsive concept landing page design for a saas product called "Product" built with React.js and Tailwind CSS
 
-Check out the project here:- https://product-landing-page.vercel.app/
+Check out the project here:- https://product-p.netlify.app
 
 ### Mobile Screenshot
 <img src="https://user-images.githubusercontent.com/40358714/139204263-1adf74f6-88de-42fe-bbd9-c30de5761c1e.png" width="300" height="auto" /> 
